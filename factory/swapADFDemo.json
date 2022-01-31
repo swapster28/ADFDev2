@@ -1,0 +1,9 @@
+{
+	"name": "swapADFDemo",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa154248-e950-4ba5-a9af-a872318e5340",
+		"tenantId": "829faa03-caa6-48fc-933c-3197b8a16996"
+	}
+}
